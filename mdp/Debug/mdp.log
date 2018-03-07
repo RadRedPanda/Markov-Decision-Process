@@ -1,0 +1,12 @@
+﻿  state.cpp
+  policy.cpp
+c:\users\kevin\documents\visual studio 2015\projects\ai\mdp\mdp\policy.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\ai\mdp\mdp\policy.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\ai\mdp\mdp\policy.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\ai\mdp\mdp\policy.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\ai\mdp\mdp\policy.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\ai\mdp\mdp\policy.cpp(99): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  mdp.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2015\Projects\AI\mdp\Debug\mdp.exe
+  mdp.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2015\Projects\AI\mdp\Debug\mdp.pdb (Partial PDB)
